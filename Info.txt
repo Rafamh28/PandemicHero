@@ -1,0 +1,7 @@
+// En la terminal de vsc:
+    //Tienes un macro llamado dev que cada vez que actualices el codigo en el archivo de origen
+    //( Puede ser "Index.js") reiniciara autimaticamente el bot. Simplifica el tener que estar
+    //Corriendo a cada rato.
+    //El comando es "npm run dev"
+
+    //Si hay que instalar alguna otra dependencia "npm -i "NombreDependencia"
