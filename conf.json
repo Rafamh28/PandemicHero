@@ -2,7 +2,6 @@
     "settings": {
         "nlp": {
             "corpora": [
-                "./corpus-en.json",
                 "./corpus-es.json"
             ]
         },
