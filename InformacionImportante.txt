@@ -1,6 +1,0 @@
-Aqui se ubica el token para la API del Bot de prueba!
-
-        // 1659752930:AAGZ01r7p1PaKFjZyJ4rjIJ9p3THFTAVUtY
-
-La api es el puente para poder trabajar directamente con el bot!
-
