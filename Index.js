@@ -16,12 +16,16 @@
     bot.on('sticker', ctx => {
         ctx.reply("🤖")
     })
+
+    bot.on('voice', ctx =>{
+        ctx.reply("No puedo escuchar! 🤖")
+    })
+
     bot.on('text', ctx => {
         (async()=>{
             const dock = await dockStart()
             const nlp = dock.get('nlp')
             const response = await nlp.process('es', ctx.message.text)
-            console.log(response)
             ctx.reply(response.answer)
 
         })()
