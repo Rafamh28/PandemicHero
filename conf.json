@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "nlp": {
+            "corpora": [
+                "./corpus-es.json"
+            ]
+        },
+        "console":{
+            "debug": true
+        }
+    },
+    "use": ["Basic", "ConsoleConnector", "LangEs"]
+}

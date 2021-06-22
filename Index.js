@@ -2,20 +2,30 @@
 
     //Variable de enlace de control del bot
     const { Telegraf } = require('Telegraf')
-    
+    const { dockStart } = require('@nlpjs/basic')
     //Enlace al bot mediante el token!
-    const bot = new Telegraf('1659752930:AAGZ01r7p1PaKFjZyJ4rjIJ9p3THFTAVUtY')
+    //PandemicHero:
+    //const bot = new Telegraf('1659752930:AAGZ01r7p1PaKFjZyJ4rjIJ9p3THFTAVUtY')
+    //Pandemax:
+    const bot = new Telegraf('1797558685:AAEjwHXVIrlLqIzwNOOC7tWOl1yqyKBk1Bc')
 
     bot.start(ctx =>{
-        ctx.reply("Hola, mi nombre es Gary. En que te puedo ayudar " + ctx.chat.first_name + " " + ctx.chat.last_name + "?")
+        ctx.reply("¡Hola! Yo soy Pandemax, tu asistente virtual en la pandemia. ¿En qué te puedo ayudar " + ctx.chat.first_name + "?")
     })
 
     bot.on('sticker', ctx => {
-        ctx.reply("Te gustan los stickers?")
+        ctx.reply("🤖")
     })
-
     bot.on('text', ctx => {
-        ctx.reply("No puedo responderte de manera adecuada en este momento.")
+        (async()=>{
+            const dock = await dockStart()
+            const nlp = dock.get('nlp')
+            const response = await nlp.process('es', ctx.message.text)
+            console.log(response)
+            ctx.reply(response.answer)
+
+        })()
+
     })
     //Lanzamiento del bot
     bot.launch()

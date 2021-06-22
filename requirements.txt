@@ -1,0 +1,4 @@
+telegraf
+@nlpjs/lang-es
+@nlpjs/basic
+node-nlp
