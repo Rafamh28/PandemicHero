@@ -371,7 +371,8 @@
           "medidas de higiene al cocinar",
           "que debo hacer cuando cocino",
           "higiene y alimentación",
-          "lavar limpiar los alimentos"
+          "lavar limpiar los alimentos",
+          "limpiar lavar la comida"
         ],
         "answers": [
           "👇 Aquí tienes algunos consejos generales sobre la higiene alimentaria: \n\n☑️ Lavarse muy bien las manos con jabón y agua durante al menos 20 segundos antes de preparar los alimentos. \n\n☑️ Utilizar tablas de cortar separadas para preparar carne y pescado crudos. \n\n☑️ Cocinar los alimentos a la temperatura recomendada. \n\n☑️ En lo posible, mantener los productos perecederos refrigerados o congelados y prestar atención a las fechas de vencimiento. \n\n☑️ Eliminar los restos de comida de una manera higiénica y reciclar los envases apropiadamente, a fin de evitar la acumulación de desechos que puedan atraer pestes. \n\n☑️ Lavarse las manos con jabón y agua durante al menos 20 segundos antes de comer, y asegurarse de que los niños también lo hagan. \n\n☑️ Utilizar siempre utensilios y platos limpios."
@@ -414,7 +415,10 @@
           "convivir con mi esposo",
           "mejorar relacion con mi pareja",
           "como mejorar convivencia con mi esposo novio",
-          "vivir en pareja durante la pandemia"
+          "vivir en pareja durante la pandemia",
+          "vivir con mi novio, novia",
+          "vivir con mi esposo, esposa",
+          "vivir con mi conyuge"
         ],
         "answers": [
           "👇 Aquí tienes algunos consejos para mejorar la convivencia en pareja: \n\n👫 Trabajar por la armonía en el hogar: es importante tener paciencia hacia la irritabilidad de tu pareja y de tus hijos. Si ellos también están como tú, podrás mantener la armonía en el hogar. \n\n👭 Limitar el tema del coronavirus: es bueno mantenerse informado sobre el coronavirus, pero sin obsesionarse. \n\n👬 Distribuir equitativa de las tareas: estar en cuarentena implica tener tareas extras en el hogar (como cocinar y lavar más), por lo que  es importante distribuir las labores del hogar y el cuidado de los otros en forma equitativa. \n\n👫 Hacer cosas que les guste a ambos (y para las cuales nunca tienen tiempo): a mayor nivel de estrés, más tiempo de ocio es necesario para combatirlo. \n\n👭 Conservar momentos de privacidad: es necesario respetar los espacios de privacidad, permitiendo que cada uno tenga momentos solo y se dedique a actividades personales. \n\n👬 Buscar espacios de intimidad para la pareja. Estar encerrado no implica matar el romanticismo."
@@ -427,7 +431,9 @@
           "como ayudar a los que nos rodean",
           "como ayudar a la comunidad",
           "hacer para ayudar a los demas",
-          "como ayudar a los vecinos"
+          "como ayudar a los vecinos",
+          "comoo convivir con mis vecinos",
+          "convivir con mi comunidad"
         ],
         "answers": [
           "En momentos como este, hay muchas maneras de ayudar a la gente que te rodea. Por ejemplo: \n\n👉 Sigue los consejos de los trabajadores de la salud y las directrices sobre distanciamiento social si te piden que adoptes esa medida. Eso ayuda a las personas más vulnerables de tu comunidad y alivia la carga de cuidadores y cuidadoras y hospitales. \n\n👉 Brinda apoyo emocional a la gente mediante llamadas telefónicas o mensajes. Este tiempo puede ser de extrema soledad para muchas personas. Llama a la gente y bríndale apoyo. \n\n👉 Ayuda a limitar la propagación de información falsa y sensibiliza sobre las cosas básicas que se deben y no se deben hacer promoviendo los consejos de expertos y fuentes fiables. \n\n👉 Comparte los recursos escasos, ten consideración al comprar y ofrece ayuda a personas que tienen menos posibilidades de acceder a artículos de protección necesarios con una fuerte demanda. \n\nY, recuerda, hagas lo que hagas: ¡Cuídate!"
@@ -441,7 +447,9 @@
           "como distraerse en cuarentena",
           "actividades para distraerse",
           "cosas para no aburrirse",
-          "recomendaciones aburrido en casa"
+          "recomendaciones aburrido en casa",
+          "aburrido aburrida",
+          "aburrimiento"
         ],
         "answers": [
           "Estar todo el día en casa puede resultar muy aburrido, mis sugerencias para tí son estas: \n\n🚿 Haz una limpieza a fondo de la casa. \n\n🎮 Juega videojuegos. \n\n👨‍👩‍👧‍👦 Pasa tiempo en familia haciendo sus actividades favoritas, ya sea juegos de mesa, peliculas, karaoke, etc. \n\n👩‍💻 Haz tantos cursos como quieras, en internet hay una gran variedad disponible 24/7. \n\n📚 Lee un libro, ya sabes, ese libro que tiene años acumulando polvo en la biblioteca. \n\n📝 Escribe tu propia novela. \n\n🥗 Empieza a cuidarte, comienza una dieta saludable, deja los vicios (cigarros, alcohol, etc.) y haz ejercicio. \n\n👩‍🍳 Aprende a cocinar nuevos platillos. \n\n📺 Haz maratones de películas o series. \n\n🧘‍♂️ Inmersete en el mundo de la meditación o el yoga. \n\n🎨 Retoma un hobbie que por falta de tiempo dejaste de lado hace ya mucho tiempo."
@@ -561,6 +569,7 @@
         "utterances": [
           "legalmente, puede un trabajador negarse a asistir al trabajo presencial durante la cuarentena",
           "no quiero asistir al trabajo oficina",
+          "no quiero ir al trabajo",
           "es legal si me despiden durante la pandemia",
           "pueden despedirme si no voy a la oficina trabajo"
         ],
@@ -575,7 +584,13 @@
           "Qué se debe hacer para garantizar la seguridad de los trabajadores",
           "ambiente seguro para trabajar",
           "cuidar la salud del personal o de los trabajadores",
-          "como evitar el contagio en la oficina"
+          "como evitar el contagio en la oficina",
+          "garantizar salud de los trabajadores",
+          "salud de los empleados",
+          "salud laboral",
+          "seguridad laboral",
+          "seguridad de los empleados",
+          "seguridad del personal laboral"
         ],
         "answers": [
           "Establece un protocolo de limpieza que sea riguroso, que este involucre todas las superficies: escritorios, teclados, ratones, perillas de las puertas, las puertas. Considera que deberás incrementar las provisiones de los productos de limpieza, así como también haz de incluir guantes desechables, mascarillas (que cubran boca y nariz), gorros desechables, alcohol antiséptico, antibacteriales y todo aquel producto que se considere necesario."
@@ -735,8 +750,8 @@
           "quien te hizo"
         ],
         "answers": [
-          "Fui hecho por un grupo de estudiantes de la Universidad Catolica Andres Bello! ",
-          "Soy la creacion de un grupo de estudiantes de la Universidad Catolica Andres Bello!"
+          "Fui hecho por un grupo de estudiantes de la Universidad Cátolica Andrés Bello! ",
+          "Soy la creación de un grupo de estudiantes de la Universidad Cátolica Andrés Bello!"
         ]
       },
       {
@@ -762,7 +777,8 @@
         "utterances": [
           "de donde eres",
           "de donde provienes",
-          "cual es tu origen"
+          "cual es tu origen",
+          "cual es tu pais"
         ],
         "answers": [
           "Soy originario de Venezuela! 🇻🇪",
@@ -800,12 +816,15 @@
           "que proposito tienes",
           "cual es tu objetivo",
           "cual es tu mision",
-          "cuentame sobre ti"
+          "cuentame sobre ti",
+          "que puedes hacer",
+          "que sabes hacer"
         ],
         "answers": [
           "Mi proposito es otorgar asistencia sobre como vivir en la pandemia a las personas. 🛡️",
           "Mi mision es ayudarte dandote asistencia e informacion sobre como vivir en la pandemia. 🛡️",
-          "Mi funcion es ayudarte, brindandote informacion sobre como vivir en la pandemia 🤖🦾"
+          "Mi funcion es ayudarte, brindandote informacion sobre como vivir en la pandemia 🤖🦾",
+          "Se mucho sobre como vivir en la pandemia!"
         ]
       },
       {
@@ -831,19 +850,16 @@
         "intent": "personalidad.saludos",
         "utterances": [
           "hola",
+          "holi",
           "hey",
-          "ola",
           "buenos dias",
           "buenas tardes",
           "buenas noches"
         ],
         "answers": [
-          "Hola! 😁",
-          "Heyyy! 😆",
-          "Buen dia!😃",
-          "Buenos dias!🤙",
-          "Buenas tardes! 🤙",
-          "Buenas noches! 🤙"
+          "¡Hola! 😁",
+          "¡Heyyy! 😆",
+          "¡Buen día!😃"
         ]
       },
       {
@@ -859,8 +875,8 @@
           "chao"
         ],
         "answers": [
-          "Bien, nos vemos, que tengas un excelente dia! 👋",
-          "Ha sido un placer hablar contigo, ten un buen dia! 👋"
+          "Bien, nos vemos, ¡que tengas un excelente día! 👋",
+          "Ha sido un placer hablar contigo, ¡ten un buen día! 👋"
         ]
       },
       {
@@ -891,10 +907,55 @@
         "id":63,
         "intent": "personalidad.funcionamiento",
         "utterances": [
-          "como funciones"
+          "como funcionas",
+          "como puedes ayudarme"
         ],
         "answers": [
           "Cuentame tus preocupaciones sobre como vivir en la pandemia y con mucho gusto te respondere!😃"
+        ]
+      },
+      {
+        "intent": "personalida.gratitud",
+        "utterances": [
+          "Un gusto conocerte",
+          "Es un placer conocerte"
+        ],
+        "answers": [
+          "¡Gracias! El gusto es mío 😄"
+        ]
+      },
+      {
+        "intent": "personalida.sentimientos.noentendido",
+        "utterances": [
+          "te quiero",
+          "me gustas",
+          "te gusto",
+          "me quieres",
+          "te amo",
+          "me amas",
+          "me odias",
+          "te odio",
+          "te detesto",
+          "me detestas",
+          "no sirves",
+          "me alegro",
+          "me gusto",
+          "me produce sentimientos",
+          "alegria tristeza"
+
+        ],
+        "answers": [
+          "Soy un bot, no soy capaz de comprender esos sentimientos 🤖"
+        ]
+      },
+      {
+        "intent": "personalida.sentimientos.noentendido",
+        "utterances": [
+          "te gusta...",
+          "que cosas te gustan"
+        ],
+        "answers": [
+          "Soy un bot, no soy capaz de comprender esos sentimientos 🤖"
         ]
       },
       {
@@ -906,7 +967,7 @@
         "what should I do?"
         ],
         "answers": [
-          "Lo siento, no puedo responder eso, todavia estoy aprendiendo."
+          "Lo siento, no puedo responder eso 😔, todavia estoy aprendiendo."
         ]
       }
     ]

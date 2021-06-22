@@ -21,13 +21,17 @@
         ctx.reply("No puedo escuchar! 🤖")
     })
 
+    bot.command('info',ctx=>{
+        ctx.reply("Soy capaz de darte consejos o respuestas es los siguientes temas o topicos: \n\nSalud física 💪🚴‍♀️\n\nSalud alimentacia 🥕🍎 \n\nConvivencia familiar 👪 \n\nHigiene 🚿 \n\nEmprendimiento 💰 \n\nTrabajo/estudios a distancia 📖🖋️")
+    })
+
     bot.on('text', ctx => {
         (async()=>{
             const dock = await dockStart()
             const nlp = dock.get('nlp')
             const response = await nlp.process('es', ctx.message.text)
+            console.log(response)
             ctx.reply(response.answer)
-
         })()
 
     })
