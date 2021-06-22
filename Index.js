@@ -16,7 +16,6 @@
     bot.on('sticker', ctx => {
         ctx.reply("🤖")
     })
-
     bot.on('text', ctx => {
         (async()=>{
             const dock = await dockStart()
