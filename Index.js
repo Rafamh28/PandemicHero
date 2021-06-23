@@ -17,7 +17,7 @@
     //Modificacion del comando start!
     bot.start(ctx =>{
         ctx.reply("¡Hola! Yo soy Pandemax, tu asistente virtual en la pandemia. ¿En qué te puedo ayudar " + ctx.chat.first_name + "? \n\n")
-        ctx.reply("Si necesitas mas informacion sobre mi uso, usa el comando '/info' para obtener una idea sobre los conocimientos que tengo.")
+        ctx.reply("Si necesitas más informacion sobre mi uso, usa el comando '/info' para obtener una idea sobre los conocimientos que tengo.")
     })
 
     //Reacciona a los stickers enviados por el usuario mandando un emoji robotico.
@@ -33,7 +33,7 @@
     //Haciendo uso de Telegraf, usamos la funcion command para crear un comando extra para ser usado en el bot.
     //el cual es mencionado anteriormente.
     bot.command('info',ctx=>{
-        ctx.reply("Soy capaz de darte consejos o respuestas es los siguientes temas o topicos: \n\nSalud física 💪🚴‍♀️\n\nSalud alimentacia 🥕🍎 \n\nConvivencia familiar 👪 \n\nHigiene 🚿 \n\nEmprendimiento 💰 \n\nTrabajo/estudios a distancia 📖🖋️")
+        ctx.reply("Soy capaz de darte consejos o respuestas es los siguientes temas o tópicos: \n\nSalud física 💪🚴‍♀️\n\nSalud mental 💆🏻‍♀️🧘\n\nHigiene alimentaria 🥕🍎 \n\nConvivencia familiar 👪 \n\nHigiene personal🚿 \n\nBienestar económico 💰 \n\nTrabajo/estudios a distancia 📖🖋️")
     })
 
     //Reaccion a los audios mandados por el usuario mandando un emoji robotico con un  breve mensaje!
