@@ -770,7 +770,9 @@
           "que tan joven eres",
           "que edad tienes",
           "cuantos años tienes",
-          "cuanto tiempo tienes viviendo"
+          "cuanto tiempo tienes viviendo",
+          "cuando te crearon",
+          "fecha de creacion"
         ],
         "answers": [
           "Quizás hace un año, o hace una semana... tal vez nací ayer 👀 ¿Quién sabe? 🤷‍♂️",
